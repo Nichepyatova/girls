@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241f81bf-c93c-4850-906c-926208a33423" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/girls/app/templates/blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/girls/app/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/girls/app/templates/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/girls/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/girls/app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sema\PycharmProjects\djangoGirl\girls\app\templates\blog" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="djangoGirl" />
